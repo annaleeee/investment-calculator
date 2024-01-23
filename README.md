@@ -1,2 +1,3 @@
-# investment-calculator
-React
+# investment-calculator 🧮
+by. Udemy
+
